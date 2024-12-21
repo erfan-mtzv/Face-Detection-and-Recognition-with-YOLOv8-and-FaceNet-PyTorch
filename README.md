@@ -95,7 +95,7 @@ The repository provides a sample dataset and an 8-second CCTV video of two indiv
 
   **Cosine Similarity Formula**:  
 
-$\text{Similarity} = \frac{\text{Embedding}_1 \cdot \text{Embedding}_2}{\|\text{Embedding}_1\| \|\text{Embedding}_2\|}$
+                      $\text{Similarity} = \frac{\text{Embedding}_1 \cdot \text{Embedding}_2}{\|\text{Embedding}_1\| \|\text{Embedding}_2\|}$
 
 
 ### Buffer Mechanism for Robust Recognition  
