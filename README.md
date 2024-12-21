@@ -56,8 +56,8 @@ The repository provides a sample dataset and an 8-second CCTV video of two indiv
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone <repository_url>  
-   cd <repository_name>  
+   git clone[ https://github.com/erfan-mtzv/Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch.git
+   cd Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch
    ```  
 2. Install the required libraries
 
@@ -95,7 +95,7 @@ The repository provides a sample dataset and an 8-second CCTV video of two indiv
 
   **Cosine Similarity Formula**:  
 
-                      $\text{Similarity} = \frac{\text{Embedding}_1 \cdot \text{Embedding}_2}{\|\text{Embedding}_1\| \|\text{Embedding}_2\|}$
+$\text{Similarity} = \frac{\text{Embedding}_1 \cdot \text{Embedding}_2}{\|\text{Embedding}_1\| \|\text{Embedding}_2\|}$
 
 
 ### Buffer Mechanism for Robust Recognition  
