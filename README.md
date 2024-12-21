@@ -94,9 +94,9 @@ The repository provides a sample dataset and an 8-second CCTV video of two indiv
 - Matches embeddings with a prebuilt database using cosine similarity:  
 
   **Cosine Similarity Formula**:  
-  $[  
-  \text{Similarity} = \frac{\text{Embedding}_1 \cdot \text{Embedding}_2}{\|\text{Embedding}_1\| \|\text{Embedding}_2\|}  
-  $]  
+
+$\text{Similarity} = \frac{\text{Embedding}_1 \cdot \text{Embedding}_2}{\|\text{Embedding}_1\| \|\text{Embedding}_2\|}$
+
 
 ### Buffer Mechanism for Robust Recognition  
 - Buffers consecutive frames of a detected face ID.  
