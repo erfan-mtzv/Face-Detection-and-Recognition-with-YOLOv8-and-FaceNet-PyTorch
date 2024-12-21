@@ -114,10 +114,10 @@ The repository includes:
 ### Demo Videos  
 
 #### Without Buffer  
-- [Video Without Buffer](https://github.com/erfan-mtzv/Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch/blob/main/result-videos/without-buffer-result.gif)
+- ![Video Without Buffer](https://github.com/erfan-mtzv/Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch/blob/main/result-videos/without-buffer-result.gif)
 
 #### With Buffer (buffer_size=5)
-- [Video With Buffer](https://github.com/erfan-mtzv/Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch/blob/main/result-videos/buffer-result.gif)
+- ![Video With Buffer](https://github.com/erfan-mtzv/Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch/blob/main/result-videos/buffer-result.gif)
 
 
 ---  
