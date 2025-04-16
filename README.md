@@ -56,7 +56,7 @@ The repository provides a sample dataset and an 8-second CCTV video of two indiv
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone[ https://github.com/erfan-mtzv/Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch.git
+   git clone https://github.com/erfan-mtzv/Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch.git
    cd Face-Detection-and-Recognition-with-YOLOv8-and-FaceNet-PyTorch
    ```  
 2. Install the required libraries
